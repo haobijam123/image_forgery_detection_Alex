@@ -1,1 +1,1 @@
-# image_forgery_detection_Alex
+# Image-Forgery-Detection
